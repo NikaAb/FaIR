@@ -66,7 +66,7 @@ def parse_arguments(args):
     k=get_option(args,"-id")
     id=float(args[k+1])
     k=get_option(args,'-tolerance')
-    tolerance= int(args[k+1])
+    tolerance=int(args[k+1])
     k=get_option(args,'-mid')
     mid=float(args[k+1])
     k=get_option(args,'-splitsize')

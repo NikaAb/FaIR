@@ -65,9 +65,29 @@ def get_similarity_score(s1,s2, l1, l2):
 
        sim=hamming_similarity(s1,s2,l1)
     else:
+        #print l1,l2
+        if l1>l2 :
+            long_seq = s1
+            short_seq = s2
+        else : 
+            long_seq = s2
+            short_seq = s1
+        #print "long", len(long_seq), long_seq
+        #print "short", short_seq
+        five_prime = long_seq[ : len(short_seq)]
+        #print "five_prime" ,five_prime, len(five_prime)
+        three_prime = long_seq[-(len(short_seq)) :]
+        #print  "three_prime", three_prime, len(three_prime)  
+        sim_five=hamming_similarity(five_prime,short_seq,len(short_seq))
+        sim_three=hamming_similarity(three_prime,short_seq,len(short_seq))
+        #print len(short_seq)
+       
         #d=100.0*(1.0-editdistance.eval(s1,s2)/float(max(l1,l2)))
         #sim=100.0*(1.0-nlevenshtein(s1,s2,method=1))
-        sim=100.0*(1.0-distance(s1,s2)/l_avg)
+        sim_lev=100.0*(1.0-distance(s1,s2)/l_avg)
+        #print "sim_five",round(sim_five) ,"sim_three",round(sim_three) , round(sim_lev)
+        sim = max(round(sim_five),round(sim_three),round(sim_lev))
+        #print sim,"aaaaaaa"
     return sim
 
 
@@ -207,7 +227,9 @@ def fast_preclustering_pool(pre_groups, th, split_size=250):
     # Performs a multicore  pre_clustering
     cpc=MP.cpu_count()
     process_pool=MP.Pool(cpc)
+    #print process_pool
     splited_group=spliting_filter(pre_groups, split_limit=split_size)
+    #print splited_group
     keys=splited_group.keys()
     #tk=len(keys)
     #print ("Total Splits", tk)
@@ -219,6 +241,7 @@ def fast_preclustering_pool(pre_groups, th, split_size=250):
 
 def  super_merge(pre_clusters, t=0, mth=90.0):
     # Perform the merging of the pre_clusters
+    #print t
     clusters=[]
     #print(pre_clusters.keys())
     print("Merging.....")
@@ -226,13 +249,18 @@ def  super_merge(pre_clusters, t=0, mth=90.0):
         #print (key)
         leftout=[]
         if clusters==[]:
+            #print "ok1"
             clusters=clusters+pre_clusters[key]
+            #print clusters
         else:
             nC=pre_clusters[key]
-            
+            #print "ok2"
             for c1 in nC:
+                #print "c1",c1
                 s1=c1[0]['CDR3']
+                #print s1
                 l1=c1[0]['Length']
+                #print "l1",l1
                 a=[l1+x for x in range(0,t+1)]+[l1-x for x in range(0,t+1)]
                 candidates=list(set(a))
                 #print("Length:",l1,"Tolerance",t,"Candidates:",candidates,'\n')
@@ -240,14 +268,19 @@ def  super_merge(pre_clusters, t=0, mth=90.0):
                 index=0
                 i=0
                 L=len(clusters)
+                #print "L", L
                 while i<L:
+                    #print "i",i
                     c2=clusters[i]
+                    #print "c2",c2[0]['Length']
                     s2=c2[0]['CDR3']
                     l2=c2[0]['Length']
+                    #print "l2",l2
                     if not l2 in candidates:
                         i=i+1
                         continue
                     s=get_similarity_score(s1,s2,l1, l2)
+                    #print s
                     if s>=smax:
                         smax=s
                         index=i
@@ -259,6 +292,7 @@ def  super_merge(pre_clusters, t=0, mth=90.0):
                 else:
                     leftout.append(c1)
             clusters=clusters+leftout
+    #print clusters
     return clusters
 
 
@@ -267,10 +301,12 @@ def  super_merge(pre_clusters, t=0, mth=90.0):
 def FaIR_CDR3Only(sequences, th=60.0,tolerance=1, mth=60.0,split_size=250):
     print ("Eliminating Duplicate Sequences...") #ok
     pre_group=duplicate_filter(sequences) #ok
+    #print pre_group.keys()
     del sequences #ok
     keys=pre_group.keys() #ok
     print ("Pre Clustering....\n")#ok
     pre_clusters=fast_preclustering_pool(pre_group,th,split_size)
+    #print pre_clusters.keys()
     pre_keys=pre_clusters.keys()
     print(" Merging is started..\n")
     clusters=super_merge(pre_clusters, t=tolerance,mth=mth)
