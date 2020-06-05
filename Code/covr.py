@@ -130,8 +130,8 @@ def label_cluster(dico_dstb,dico_dstb_seq,Mix_cluster_detail,first_distribution,
 	#plt.ylim((0, 170)) 
 	#cluster_one = first_distribution.split("_")[0]  + "_" + first_distribution.split("_")[3].split(".")[0] # simulation 
 	#cluster_two = second_distribution.split("_")[0] + "_" + second_distribution.split("_")[3]  # simulation
-	cluster_one = "I1 True CDR3 90"#first_distribution.split(".")[0]
-	cluster_two = "SCOPer"#second_distribution.split(".")[0]
+	cluster_one = "I1 IMGT"#first_distribution.split(".")[0]
+	cluster_two = "FaIR"#second_distribution.split(".")[0]
 	name = "Distribution comparison : "+ str(cluster_one)+ " and "  +str(cluster_two)
 	plt.title(name)
 	annotation = []
@@ -147,6 +147,7 @@ def label_cluster(dico_dstb,dico_dstb_seq,Mix_cluster_detail,first_distribution,
 	                 ha='center') # horizontal alignment can be left, right or center
 
 	plt.show()
+	plt.save()
 	"""
 	fig, ax = plt.subplots(figsize=(6, 3), subplot_kw=dict(aspect="equal"))
 
