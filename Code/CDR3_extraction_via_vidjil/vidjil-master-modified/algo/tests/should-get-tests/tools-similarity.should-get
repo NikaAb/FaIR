@@ -1,0 +1,10 @@
+!NO_EXTRA:
+!LAUNCH: ../../tools/similarity $VIDJIL_DATA/msa.fa
+
+$ Read 3 sequences
+1: 54 bp in .* 3 sequences
+
+$ Compute table of similarities
+1: seq1 .* 100 .* 76 .* 82 
+
+

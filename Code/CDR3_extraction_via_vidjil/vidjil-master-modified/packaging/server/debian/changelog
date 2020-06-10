@@ -1,0 +1,5 @@
+vidjil-server (2016.08.15) stable; urgency=medium
+
+  * Ensure that no unwanted germlines are built into package
+
+ -- Vidjil Team <team@vidjil.org>  Wed, 14 Sep 2016 14:07:00 +0200

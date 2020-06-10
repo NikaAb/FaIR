@@ -1,0 +1,13 @@
+{
+   gzstream
+   Memcheck:Cond
+   fun:inflateReset2
+   fun:inflateInit2_
+   obj:*/libz.so.1.2.3.4
+   fun:_ZN11gzstreambuf4openEPKci
+   fun:_ZN12gzstreambase4openEPKci
+   fun:_ZN12gzstreambaseC2EPKci
+   ...
+   fun:_ZN13MultiGermline15build_from_jsonESsSsii
+   fun:main
+}

@@ -1,0 +1,15 @@
+!LAUNCH: $VIDJIL_DIR/$EXEC $VIDJIL_DEFAULT_OPTIONS -g $VIDJIL_DIR/germline -g $VIDJIL_DIR/germline/homo-sapiens-isotypes.g $VIDJIL_DATA/isotypes.fa
+
+$ Report the correct species
+1: Homo sapiens .9606.
+
+$ Segment the three reads
+1: junction detected in 3 reads
+
+$ Segment one read on IGH (first -g option)
+1: IGH .* -> .* 1 
+
+$ Segment two reads on IgVC/IgJC (second -g option)
+1: IgVC .* -> .* 1
+1: IgJC .* -> .* 1 
+
