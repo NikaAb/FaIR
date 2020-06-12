@@ -1,0 +1,803 @@
+I1
+\n
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 710, '\n')
+('Clusters are written in <', 'I1_vidjil_70_t3_id_80.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 35, ':', 3, '\n')
+('Clustering ends at ', 22, ':', 35, ':', 16, '\n')
+('Total Clustering Time:', 0.1923, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 880, '\n')
+('Clusters are written in <', 'I1_vidjil_80_t3_id_80.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 35, ':', 16, '\n')
+('Clustering ends at ', 22, ':', 35, ':', 29, '\n')
+('Total Clustering Time:', 0.1982, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 924, '\n')
+('Clusters are written in <', 'I1_vidjil_80_t3_id_85.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 35, ':', 32, '\n')
+('Clustering ends at ', 22, ':', 35, ':', 47, '\n')
+('Total Clustering Time:', 0.2221, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 1284, '\n')
+('Clusters are written in <', 'I1_vidjil_90_t3_id_85.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 35, ':', 47, '\n')
+('Clustering ends at ', 22, ':', 36, ':', 3, '\n')
+('Total Clustering Time:', 0.2448, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 822, '\n')
+('Clusters are written in <', 'I1_vidjil_70_t3_id_90.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 36, ':', 3, '\n')
+('Clustering ends at ', 22, ':', 36, ':', 18, '\n')
+('Total Clustering Time:', 0.2278, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 1001, '\n')
+('Clusters are written in <', 'I1_vidjil_80_t3_id_90.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 36, ':', 19, '\n')
+('Clustering ends at ', 22, ':', 36, ':', 34, '\n')
+('Total Clustering Time:', 0.2265, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+I1
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 710, '\n')
+('Clusters are written in <', 'I1_vidjil_70_t3_id_80.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 39, ':', 19, '\n')
+('Clustering ends at ', 22, ':', 39, ':', 33, '\n')
+('Total Clustering Time:', 0.2138, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I1_vidjil_70_t3_id_80.0
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 880, '\n')
+('Clusters are written in <', 'I1_vidjil_80_t3_id_80.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 39, ':', 34, '\n')
+('Clustering ends at ', 22, ':', 39, ':', 48, '\n')
+('Total Clustering Time:', 0.207, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I1_vidjil_80_t3_id_80.0
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 1151, '\n')
+('Clusters are written in <', 'I1_vidjil_90_t3_id_80.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 39, ':', 48, '\n')
+('Clustering ends at ', 22, ':', 40, ':', 2, '\n')
+('Total Clustering Time:', 0.2135, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I1_vidjil_90_t3_id_80.0
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 740, '\n')
+('Clusters are written in <', 'I1_vidjil_70_t3_id_85.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 40, ':', 3, '\n')
+('Clustering ends at ', 22, ':', 40, ':', 15, '\n')
+('Total Clustering Time:', 0.1943, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I1_vidjil_70_t3_id_85.0
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 924, '\n')
+('Clusters are written in <', 'I1_vidjil_80_t3_id_85.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 40, ':', 16, '\n')
+('Clustering ends at ', 22, ':', 40, ':', 29, '\n')
+('Total Clustering Time:', 0.2043, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I1_vidjil_80_t3_id_85.0
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 1284, '\n')
+('Clusters are written in <', 'I1_vidjil_90_t3_id_85.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 40, ':', 30, '\n')
+('Clustering ends at ', 22, ':', 40, ':', 45, '\n')
+('Total Clustering Time:', 0.2259, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I1_vidjil_90_t3_id_85.0
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 822, '\n')
+('Clusters are written in <', 'I1_vidjil_70_t3_id_90.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 40, ':', 45, '\n')
+('Clustering ends at ', 22, ':', 41, ':', 0, '\n')
+('Total Clustering Time:', 0.2225, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I1_vidjil_70_t3_id_90.0
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 1001, '\n')
+('Clusters are written in <', 'I1_vidjil_80_t3_id_90.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 41, ':', 0, '\n')
+('Clustering ends at ', 22, ':', 41, ':', 15, '\n')
+('Total Clustering Time:', 0.2276, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I1_vidjil_80_t3_id_90.0
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 1536, '\n')
+('Clusters are written in <', 'I1_vidjil_90_t3_id_90.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 41, ':', 16, '\n')
+('Clustering ends at ', 22, ':', 41, ':', 33, '\n')
+('Total Clustering Time:', 0.2624, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I1_vidjil_90_t3_id_90.0
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 1134, '\n')
+('Clusters are written in <', 'I1_vidjil_70_t3_id_95.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 41, ':', 33, '\n')
+('Clustering ends at ', 22, ':', 41, ':', 52, '\n')
+('Total Clustering Time:', 0.2859, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I1_vidjil_70_t3_id_95.0
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 1292, '\n')
+('Clusters are written in <', 'I1_vidjil_80_t3_id_95.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 41, ':', 52, '\n')
+('Clustering ends at ', 22, ':', 42, ':', 12, '\n')
+('Total Clustering Time:', 0.3115, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I1_vidjil_80_t3_id_95.0
+('Total Sequences: ', 25379, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25379, '\n')
+('Total #Clusters: ', 1864, '\n')
+('Clusters are written in <', 'I1_vidjil_90_t3_id_95.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 42, ':', 13, '\n')
+('Clustering ends at ', 22, ':', 42, ':', 35, '\n')
+('Total Clustering Time:', 0.3582, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I1_vidjil_90_t3_id_95.0
+I3
+('Total Sequences: ', 137955, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 137955, '\n')
+('Total #Clusters: ', 1745, '\n')
+('Clusters are written in <', 'I3_vidjil_70_t3_id_80.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 45, ':', 40, '\n')
+('Clustering ends at ', 22, ':', 46, ':', 56, '\n')
+('Total Clustering Time:', 1.1654, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I3_vidjil_70_t3_id_80.0
+('Total Sequences: ', 137955, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 137955, '\n')
+('Total #Clusters: ', 2201, '\n')
+('Clusters are written in <', 'I3_vidjil_80_t3_id_80.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 46, ':', 59, '\n')
+('Clustering ends at ', 22, ':', 48, ':', 21, '\n')
+('Total Clustering Time:', 1.264, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I3_vidjil_80_t3_id_80.0
+('Total Sequences: ', 137955, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 137955, '\n')
+('Total #Clusters: ', 2625, '\n')
+('Clusters are written in <', 'I3_vidjil_90_t3_id_80.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 48, ':', 25, '\n')
+('Clustering ends at ', 22, ':', 49, ':', 53, '\n')
+('Total Clustering Time:', 1.3688, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I3_vidjil_90_t3_id_80.0
+('Total Sequences: ', 137955, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 137955, '\n')
+('Total #Clusters: ', 1796, '\n')
+('Clusters are written in <', 'I3_vidjil_70_t3_id_85.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 49, ':', 57, '\n')
+('Clustering ends at ', 22, ':', 51, ':', 15, '\n')
+('Total Clustering Time:', 1.1939, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I3_vidjil_70_t3_id_85.0
+('Total Sequences: ', 137955, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 137955, '\n')
+('Total #Clusters: ', 2286, '\n')
+('Clusters are written in <', 'I3_vidjil_80_t3_id_85.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 51, ':', 18, '\n')
+('Clustering ends at ', 22, ':', 52, ':', 44, '\n')
+('Total Clustering Time:', 1.3313, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I3_vidjil_80_t3_id_85.0
+('Total Sequences: ', 137955, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 137955, '\n')
+('Total #Clusters: ', 2837, '\n')
+('Clusters are written in <', 'I3_vidjil_90_t3_id_85.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 52, ':', 48, '\n')
+('Clustering ends at ', 22, ':', 54, ':', 20, '\n')
+('Total Clustering Time:', 1.4251, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I3_vidjil_90_t3_id_85.0
+('Total Sequences: ', 137955, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 137955, '\n')
+('Total #Clusters: ', 1884, '\n')
+('Clusters are written in <', 'I3_vidjil_70_t3_id_90.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 54, ':', 24, '\n')
+('Clustering ends at ', 22, ':', 55, ':', 48, '\n')
+('Total Clustering Time:', 1.2899, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I3_vidjil_70_t3_id_90.0
+('Total Sequences: ', 137955, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 137955, '\n')
+('Total #Clusters: ', 2401, '\n')
+('Clusters are written in <', 'I3_vidjil_80_t3_id_90.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 55, ':', 51, '\n')
+('Clustering ends at ', 22, ':', 57, ':', 23, '\n')
+('Total Clustering Time:', 1.4239, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I3_vidjil_80_t3_id_90.0
+('Total Sequences: ', 137955, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 137955, '\n')
+('Total #Clusters: ', 3123, '\n')
+('Clusters are written in <', 'I3_vidjil_90_t3_id_90.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 57, ':', 27, '\n')
+('Clustering ends at ', 22, ':', 59, ':', 7, '\n')
+('Total Clustering Time:', 1.5601, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I3_vidjil_90_t3_id_90.0
+('Total Sequences: ', 137955, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 137955, '\n')
+('Total #Clusters: ', 2330, '\n')
+('Clusters are written in <', 'I3_vidjil_70_t3_id_95.0.txt', '> file', '\n')
+('Clustering started at ', 22, ':', 59, ':', 11, '\n')
+('Clustering ends at ', 23, ':', 0, ':', 56, '\n')
+('Total Clustering Time:', 1.6406, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I3_vidjil_70_t3_id_95.0
+('Total Sequences: ', 137955, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 137955, '\n')
+('Total #Clusters: ', 2964, '\n')
+('Clusters are written in <', 'I3_vidjil_80_t3_id_95.0.txt', '> file', '\n')
+('Clustering started at ', 23, ':', 1, ':', 0, '\n')
+('Clustering ends at ', 23, ':', 2, ':', 54, '\n')
+('Total Clustering Time:', 1.8079, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I3_vidjil_80_t3_id_95.0
+('Total Sequences: ', 137955, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 137955, '\n')
+('Total #Clusters: ', 3750, '\n')
+('Clusters are written in <', 'I3_vidjil_90_t3_id_95.0.txt', '> file', '\n')
+('Clustering started at ', 23, ':', 2, ':', 59, '\n')
+('Clustering ends at ', 23, ':', 5, ':', 7, '\n')
+('Total Clustering Time:', 2.0276, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I3_vidjil_90_t3_id_95.0
+I4
+('Total Sequences: ', 69671, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 69671, '\n')
+('Total #Clusters: ', 4892, '\n')
+('Clusters are written in <', 'I4_vidjil_70_t3_id_80.0.txt', '> file', '\n')
+('Clustering started at ', 23, ':', 6, ':', 52, '\n')
+('Clustering ends at ', 23, ':', 10, ':', 28, '\n')
+('Total Clustering Time:', 3.558, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I4_vidjil_70_t3_id_80.0
+('Total Sequences: ', 69671, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 69671, '\n')
+('Total #Clusters: ', 7082, '\n')
+('Clusters are written in <', 'I4_vidjil_80_t3_id_80.0.txt', '> file', '\n')
+('Clustering started at ', 23, ':', 10, ':', 33, '\n')
+('Clustering ends at ', 23, ':', 15, ':', 18, '\n')
+('Total Clustering Time:', 4.6935, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I4_vidjil_80_t3_id_80.0
+('Total Sequences: ', 69671, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 69671, '\n')
+('Total #Clusters: ', 7698, '\n')
+('Clusters are written in <', 'I4_vidjil_90_t3_id_80.0.txt', '> file', '\n')
+('Clustering started at ', 23, ':', 15, ':', 26, '\n')
+('Clustering ends at ', 23, ':', 20, ':', 28, '\n')
+('Total Clustering Time:', 4.9892, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I4_vidjil_90_t3_id_80.0
+('Total Sequences: ', 69671, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 69671, '\n')
+('Total #Clusters: ', 4910, '\n')
+('Clusters are written in <', 'I4_vidjil_70_t3_id_85.0.txt', '> file', '\n')
+('Clustering started at ', 23, ':', 20, ':', 37, '\n')
+('Clustering ends at ', 23, ':', 24, ':', 18, '\n')
+('Total Clustering Time:', 3.6317, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I4_vidjil_70_t3_id_85.0
+('Total Sequences: ', 69671, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 69671, '\n')
+('Total #Clusters: ', 7120, '\n')
+('Clusters are written in <', 'I4_vidjil_80_t3_id_85.0.txt', '> file', '\n')
+('Clustering started at ', 23, ':', 24, ':', 25, '\n')
+('Clustering ends at ', 23, ':', 29, ':', 28, '\n')
+('Total Clustering Time:', 5.0019, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I4_vidjil_80_t3_id_85.0
+('Total Sequences: ', 69671, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 69671, '\n')
+('Total #Clusters: ', 7772, '\n')
+('Clusters are written in <', 'I4_vidjil_90_t3_id_85.0.txt', '> file', '\n')
+('Clustering started at ', 23, ':', 29, ':', 36, '\n')
+('Clustering ends at ', 23, ':', 34, ':', 56, '\n')
+('Total Clustering Time:', 5.2617, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I4_vidjil_90_t3_id_85.0
+('Total Sequences: ', 69671, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 69671, '\n')
+('Total #Clusters: ', 4964, '\n')
+('Clusters are written in <', 'I4_vidjil_70_t3_id_90.0.txt', '> file', '\n')
+('Clustering started at ', 23, ':', 35, ':', 7, '\n')
+('Clustering ends at ', 23, ':', 39, ':', 23, '\n')
+('Total Clustering Time:', 4.2149, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I4_vidjil_70_t3_id_90.0
+('Total Sequences: ', 69671, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 69671, '\n')
+('Total #Clusters: ', 7197, '\n')
+('Clusters are written in <', 'I4_vidjil_80_t3_id_90.0.txt', '> file', '\n')
+('Clustering started at ', 23, ':', 39, ':', 28, '\n')
+('Clustering ends at ', 23, ':', 45, ':', 7, '\n')
+('Total Clustering Time:', 5.5955, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I4_vidjil_80_t3_id_90.0
+('Total Sequences: ', 69671, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 69671, '\n')
+('Total #Clusters: ', 7861, '\n')
+('Clusters are written in <', 'I4_vidjil_90_t3_id_90.0.txt', '> file', '\n')
+('Clustering started at ', 23, ':', 45, ':', 17, '\n')
+('Clustering ends at ', 23, ':', 50, ':', 40, '\n')
+('Total Clustering Time:', 5.3379, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I4_vidjil_90_t3_id_90.0
+('Total Sequences: ', 69671, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 69671, '\n')
+('Total #Clusters: ', 5249, '\n')
+('Clusters are written in <', 'I4_vidjil_70_t3_id_95.0.txt', '> file', '\n')
+('Clustering started at ', 23, ':', 50, ':', 49, '\n')
+('Clustering ends at ', 23, ':', 54, ':', 49, '\n')
+('Total Clustering Time:', 3.9519, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I4_vidjil_70_t3_id_95.0
+('Total Sequences: ', 69671, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 69671, '\n')
+('Total #Clusters: ', 7619, '\n')
+('Clusters are written in <', 'I4_vidjil_80_t3_id_95.0.txt', '> file', '\n')
+('Clustering started at ', 23, ':', 54, ':', 54, '\n')
+('Clustering ends at ', 0, ':', 0, ':', 13, '\n')
+('Total Clustering Time:', 5.2565, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I4_vidjil_80_t3_id_95.0
+('Total Sequences: ', 69671, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 69671, '\n')
+('Total #Clusters: ', 8318, '\n')
+('Clusters are written in <', 'I4_vidjil_90_t3_id_95.0.txt', '> file', '\n')
+('Clustering started at ', 0, ':', 0, ':', 21, '\n')
+('Clustering ends at ', 0, ':', 6, ':', 6, '\n')
+('Total Clustering Time:', 5.6905, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+I4_vidjil_90_t3_id_95.0

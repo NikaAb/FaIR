@@ -1,0 +1,1201 @@
+I1
+50
+I1_vidjil_70_t3_id_80.0
+sequence based F-score
+
+TP :  64703872
+FN :  24427471
+FP :  427144
+Recall :  0.72593848384
+Precision :  0.993441772811
+F1-score :  0.84
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  710  Total sequences =  25379
+23738.0 1258.0 817736.0 16897189.0
+('Pre = ', 0.9496719475116019, 'Rec = ', 0.028210021937695045, 'specificity = ', 0.9999255552891931, 'F-score = ', 0.054792433667639966, 'NumCluster = ', 710, 'NumSeqs = ', 24931, ' sumTtC = ', 841474)
+-------------------------------------
+
+60
+I1_vidjil_70_t3_id_80.0
+sequence based F-score
+
+TP :  64702986
+FN :  23811383
+FP :  298789
+Recall :  0.730988501991
+Precision :  0.995403371677
+F1-score :  0.84
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  710  Total sequences =  25379
+23764.0 1232.0 746275.0 16968650.0
+('Pre = ', 0.9507121139382301, 'Rec = ', 0.030860774584144438, 'specificity = ', 0.9999274007915907, 'F-score = ', 0.059781015930116276, 'NumCluster = ', 710, 'NumSeqs = ', 24931, ' sumTtC = ', 770039)
+-------------------------------------
+
+70
+I1_vidjil_70_t3_id_80.0
+sequence based F-score
+
+TP :  64669156
+FN :  22941389
+FP :  213990
+Recall :  0.738143519139
+Precision :  0.996701917012
+F1-score :  0.85
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  710  Total sequences =  25379
+23699.0 1297.0 648695.0 17066230.0
+('Pre = ', 0.9481116978716595, 'Rec = ', 0.035245704155599245, 'specificity = ', 0.9999240077370318, 'F-score = ', 0.06796484033324252, 'NumCluster = ', 710, 'NumSeqs = ', 24931, ' sumTtC = ', 672394)
+-------------------------------------
+
+80
+I1_vidjil_70_t3_id_80.0
+sequence based F-score
+
+TP :  64384868
+FN :  20871353
+FP :  122402
+Recall :  0.755192609346
+Precision :  0.998102508446
+F1-score :  0.86
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  710  Total sequences =  25379
+23393.0 1603.0 575043.0 17139882.0
+('Pre = ', 0.9358697391582653, 'Rec = ', 0.03909022852903234, 'specificity = ', 0.9999064841815047, 'F-score = ', 0.07504587509142939, 'NumCluster = ', 710, 'NumSeqs = ', 24931, ' sumTtC = ', 598436)
+-------------------------------------
+
+90
+I1_vidjil_70_t3_id_80.0
+sequence based F-score
+
+TP :  62339474
+FN :  15319384
+FP :  60043
+Recall :  0.802734879259
+Precision :  0.999037764988
+F1-score :  0.89
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  710  Total sequences =  25379
+22431.0 2565.0 352759.0 17362166.0
+('Pre = ', 0.8973835813730197, 'Rec = ', 0.05978570857432235, 'specificity = ', 0.9998522867990296, 'F-score = ', 0.11210287216444355, 'NumCluster = ', 710, 'NumSeqs = ', 24931, ' sumTtC = ', 375190)
+-------------------------------------
+
+50
+I1_vidjil_80_t3_id_80.0
+sequence based F-score
+
+TP :  64639334
+FN :  24492009
+FP :  431584
+Recall :  0.72521440634
+Precision :  0.993367482537
+F1-score :  0.84
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  880  Total sequences =  25379
+23806.0 1190.0 1322604.0 20655993.0
+('Pre = ', 0.952392382781245, 'Rec = ', 0.01768109268350651, 'specificity = ', 0.9999423929196929, 'F-score = ', 0.0347176547280674, 'NumCluster = ', 880, 'NumSeqs = ', 24931, ' sumTtC = ', 1346410)
+-------------------------------------
+
+60
+I1_vidjil_80_t3_id_80.0
+sequence based F-score
+
+TP :  64653142
+FN :  23861227
+FP :  312280
+Recall :  0.73042538438
+Precision :  0.995193135204
+F1-score :  0.84
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  880  Total sequences =  25379
+23847.0 1149.0 1167139.0 20811458.0
+('Pre = ', 0.9540326452232357, 'Rec = ', 0.02002290539099536, 'specificity = ', 0.9999447930766194, 'F-score = ', 0.0392226200716787, 'NumCluster = ', 880, 'NumSeqs = ', 24931, ' sumTtC = ', 1190986)
+-------------------------------------
+
+70
+I1_vidjil_80_t3_id_80.0
+sequence based F-score
+
+TP :  64645184
+FN :  22965361
+FP :  337628
+Recall :  0.737869899109
+Precision :  0.994804349187
+F1-score :  0.85
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  880  Total sequences =  25379
+23811.0 1185.0 961018.0 21017579.0
+('Pre = ', 0.9525924147863658, 'Rec = ', 0.024177801425425124, 'specificity = ', 0.999943621803832, 'F-score = ', 0.04715866610551333, 'NumCluster = ', 880, 'NumSeqs = ', 24931, ' sumTtC = ', 984829)
+-------------------------------------
+
+80
+I1_vidjil_80_t3_id_80.0
+sequence based F-score
+
+TP :  64374264
+FN :  20881957
+FP :  215082
+Recall :  0.755068231326
+Precision :  0.996670008085
+F1-score :  0.86
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  880  Total sequences =  25379
+23541.0 1455.0 733659.0 21244938.0
+('Pre = ', 0.9417906865098415, 'Rec = ', 0.031089540412044373, 'specificity = ', 0.9999315177875134, 'F-score = ', 0.06019207462068331, 'NumCluster = ', 880, 'NumSeqs = ', 24931, ' sumTtC = ', 757200)
+-------------------------------------
+
+90
+I1_vidjil_80_t3_id_80.0
+sequence based F-score
+
+TP :  62330994
+FN :  15327864
+FP :  47770
+Recall :  0.802625683731
+Precision :  0.999234194509
+F1-score :  0.89
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  880  Total sequences =  25379
+22600.0 2396.0 404303.0 21574294.0
+('Pre = ', 0.9041446631461034, 'Rec = ', 0.05293942652077872, 'specificity = ', 0.9998889542371884, 'F-score = ', 0.10002235012690888, 'NumCluster = ', 880, 'NumSeqs = ', 24931, ' sumTtC = ', 426903)
+-------------------------------------
+
+50
+I1_vidjil_90_t3_id_80.0
+sequence based F-score
+
+TP :  60507346
+FN :  28623997
+FP :  425370
+Recall :  0.678855988965
+Precision :  0.993019021177
+F1-score :  0.81
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1151  Total sequences =  25379
+23844.0 1152.0 2174368.0 26605801.0
+('Pre = ', 0.9539126260201632, 'Rec = ', 0.010846997468851958, 'specificity = ', 0.9999567030467562, 'F-score = ', 0.021450084742408265, 'NumCluster = ', 1151, 'NumSeqs = ', 24931, ' sumTtC = ', 2198212)
+-------------------------------------
+
+60
+I1_vidjil_90_t3_id_80.0
+sequence based F-score
+
+TP :  60521644
+FN :  27992725
+FP :  306223
+Recall :  0.683749369552
+Precision :  0.994965744895
+F1-score :  0.81
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1151  Total sequences =  25379
+23886.0 1110.0 2011796.0 26768373.0
+('Pre = ', 0.9555928948631781, 'Rec = ', 0.011733659775937499, 'specificity = ', 0.9999585348734602, 'F-score = ', 0.023182661240620805, 'NumCluster = ', 1151, 'NumSeqs = ', 24931, ' sumTtC = ', 2035682)
+-------------------------------------
+
+70
+I1_vidjil_90_t3_id_80.0
+sequence based F-score
+
+TP :  60513864
+FN :  27096681
+FP :  332189
+Recall :  0.690714388319
+Precision :  0.994540500433
+F1-score :  0.82
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1151  Total sequences =  25379
+23854.0 1142.0 1798993.0 26981176.0
+('Pre = ', 0.9543126900304049, 'Rec = ', 0.0130861229713739, 'specificity = ', 0.9999576759861774, 'F-score = ', 0.025818210746259288, 'NumCluster = ', 1151, 'NumSeqs = ', 24931, ' sumTtC = ', 1822847)
+-------------------------------------
+
+80
+I1_vidjil_90_t3_id_80.0
+sequence based F-score
+
+TP :  60314356
+FN :  24941865
+FP :  221408
+Recall :  0.707448152083
+Precision :  0.996342525718
+F1-score :  0.83
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1151  Total sequences =  25379
+23627.0 1369.0 1390141.0 27390028.0
+('Pre = ', 0.9452312369979197, 'Rec = ', 0.016712077229078606, 'specificity = ', 0.9999500208039772, 'F-score = ', 0.03284346842150624, 'NumCluster = ', 1151, 'NumSeqs = ', 24931, ' sumTtC = ', 1413768)
+-------------------------------------
+
+90
+I1_vidjil_90_t3_id_80.0
+sequence based F-score
+
+TP :  58623980
+FN :  19034878
+FP :  78336
+Recall :  0.754891090466
+Precision :  0.998665538171
+F1-score :  0.86
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1151  Total sequences =  25379
+22769.0 2227.0 704044.0 28076125.0
+('Pre = ', 0.9109057449191871, 'Rec = ', 0.03132717769219868, 'specificity = ', 0.9999206862283085, 'F-score = ', 0.060571235513275305, 'NumCluster = ', 1151, 'NumSeqs = ', 24931, ' sumTtC = ', 726813)
+-------------------------------------
+
+50
+I1_vidjil_70_t3_id_85.0
+sequence based F-score
+
+TP :  64935158
+FN :  24196185
+FP :  425216
+Recall :  0.728533373496
+Precision :  0.993494284473
+F1-score :  0.84
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  740  Total sequences =  25379
+23747.0 1249.0 890851.0 17585444.0
+('Pre = ', 0.9500320051208193, 'Rec = ', 0.02596441278025974, 'specificity = ', 0.999928980394438, 'F-score = ', 0.05054736407427038, 'NumCluster = ', 740, 'NumSeqs = ', 24931, ' sumTtC = ', 914598)
+-------------------------------------
+
+60
+I1_vidjil_70_t3_id_85.0
+sequence based F-score
+
+TP :  64934474
+FN :  23579895
+FP :  301206
+Recall :  0.733603760989
+Precision :  0.995382802785
+F1-score :  0.84
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  740  Total sequences =  25379
+23774.0 1222.0 810145.0 17666150.0
+('Pre = ', 0.9511121779484718, 'Rec = ', 0.028508764040632243, 'specificity = ', 0.9999308329501411, 'F-score = ', 0.05535821356013109, 'NumCluster = ', 740, 'NumSeqs = ', 24931, ' sumTtC = ', 833919)
+-------------------------------------
+
+70
+I1_vidjil_70_t3_id_85.0
+sequence based F-score
+
+TP :  64902940
+FN :  22707605
+FP :  234603
+Recall :  0.740811965044
+Precision :  0.996398344347
+F1-score :  0.85
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  740  Total sequences =  25379
+23709.0 1287.0 711929.0 17764366.0
+('Pre = ', 0.9485117618819011, 'Rec = ', 0.03222916706314791, 'specificity = ', 0.9999275568424082, 'F-score = ', 0.062340100495113286, 'NumCluster = ', 740, 'NumSeqs = ', 24931, ' sumTtC = ', 735638)
+-------------------------------------
+
+80
+I1_vidjil_70_t3_id_85.0
+sequence based F-score
+
+TP :  64634986
+FN :  20621235
+FP :  171324
+Recall :  0.758126330746
+Precision :  0.997356368539
+F1-score :  0.86
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  740  Total sequences =  25379
+23411.0 1585.0 628650.0 17847645.0
+('Pre = ', 0.9365898543767003, 'Rec = ', 0.03590308268704922, 'specificity = ', 0.9999112006512326, 'F-score = ', 0.06915518191230575, 'NumCluster = ', 740, 'NumSeqs = ', 24931, ' sumTtC = ', 652061)
+-------------------------------------
+
+90
+I1_vidjil_70_t3_id_85.0
+sequence based F-score
+
+TP :  62536178
+FN :  15122680
+FP :  68253
+Recall :  0.805267803449
+Precision :  0.998909773655
+F1-score :  0.89
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  740  Total sequences =  25379
+22455.0 2541.0 360386.0 18115909.0
+('Pre = ', 0.8983437349975996, 'Rec = ', 0.05865359248356367, 'specificity = ', 0.9998597562153495, 'F-score = ', 0.11011752244156367, 'NumCluster = ', 740, 'NumSeqs = ', 24931, ' sumTtC = ', 382841)
+-------------------------------------
+
+50
+I1_vidjil_80_t3_id_85.0
+sequence based F-score
+
+TP :  64869268
+FN :  24262075
+FP :  432304
+Recall :  0.72779412737
+Precision :  0.993379883719
+F1-score :  0.84
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  924  Total sequences =  25379
+23818.0 1178.0 1463757.0 21631516.0
+('Pre = ', 0.952872459593535, 'Rec = ', 0.016011293548224458, 'specificity = ', 0.9999455453860716, 'F-score = ', 0.031493397665299676, 'NumCluster = ', 924, 'NumSeqs = ', 24931, ' sumTtC = ', 1487575)
+-------------------------------------
+
+60
+I1_vidjil_80_t3_id_85.0
+sequence based F-score
+
+TP :  64883226
+FN :  23631143
+FP :  309094
+Recall :  0.733024781547
+Precision :  0.995258735998
+F1-score :  0.84
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  924  Total sequences =  25379
+23860.0 1136.0 1307432.0 21787841.0
+('Pre = ', 0.9545527284365498, 'Rec = ', 0.017922439254498636, 'specificity = ', 0.9999478635458654, 'F-score = ', 0.035184267648169114, 'NumCluster = ', 924, 'NumSeqs = ', 24931, ' sumTtC = ', 1331292)
+-------------------------------------
+
+70
+I1_vidjil_80_t3_id_85.0
+sequence based F-score
+
+TP :  64877988
+FN :  22732557
+FP :  376524
+Recall :  0.740527159145
+Precision :  0.994229916239
+F1-score :  0.85
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  924  Total sequences =  25379
+23827.0 1169.0 1091011.0 22004262.0
+('Pre = ', 0.9532325172027525, 'Rec = ', 0.021372611984880316, 'specificity = ', 0.9999468767505622, 'F-score = ', 0.041807842194565174, 'NumCluster = ', 924, 'NumSeqs = ', 24931, ' sumTtC = ', 1114838)
+-------------------------------------
+
+80
+I1_vidjil_80_t3_id_85.0
+sequence based F-score
+
+TP :  64658686
+FN :  20597535
+FP :  263589
+Recall :  0.758404316325
+Precision :  0.995939929708
+F1-score :  0.86
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  924  Total sequences =  25379
+23574.0 1422.0 778457.0 22316816.0
+('Pre = ', 0.943110897743639, 'Rec = ', 0.029392878828873197, 'specificity = ', 0.9999362852927727, 'F-score = ', 0.057009021470883055, 'NumCluster = ', 924, 'NumSeqs = ', 24931, ' sumTtC = ', 802031)
+-------------------------------------
+
+90
+I1_vidjil_80_t3_id_85.0
+sequence based F-score
+
+TP :  62560718
+FN :  15098140
+FP :  56208
+Recall :  0.805583800885
+Precision :  0.999102351335
+F1-score :  0.89
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  924  Total sequences =  25379
+22640.0 2356.0 404118.0 22691155.0
+('Pre = ', 0.9057449191870699, 'Rec = ', 0.053051143739543255, 'specificity = ', 0.9998961817763677, 'F-score = ', 0.10023154194539506, 'NumCluster = ', 924, 'NumSeqs = ', 24931, ' sumTtC = ', 426758)
+-------------------------------------
+
+50
+I1_vidjil_90_t3_id_85.0
+sequence based F-score
+
+TP :  60300374
+FN :  28830969
+FP :  422729
+Recall :  0.676533887748
+Precision :  0.993038415708
+F1-score :  0.8
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1284  Total sequences =  25379
+23863.0 1133.0 2716517.0 29439059.0
+('Pre = ', 0.9546727476396223, 'Rec = ', 0.008707916420350462, 'specificity = ', 0.99996151519664, 'F-score = ', 0.017258412599227013, 'NumCluster = ', 1284, 'NumSeqs = ', 24931, ' sumTtC = ', 2740380)
+-------------------------------------
+
+60
+I1_vidjil_90_t3_id_85.0
+sequence based F-score
+
+TP :  60314808
+FN :  28199561
+FP :  300653
+Recall :  0.681412619007
+Precision :  0.995039994829
+F1-score :  0.81
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1284  Total sequences =  25379
+23906.0 1090.0 2552210.0 29603366.0
+('Pre = ', 0.9563930228836613, 'Rec = ', 0.009279861621138178, 'specificity = ', 0.999963181218395, 'F-score = ', 0.018381369199019497, 'NumCluster = ', 1284, 'NumSeqs = ', 24931, ' sumTtC = ', 2576116)
+-------------------------------------
+
+70
+I1_vidjil_90_t3_id_85.0
+sequence based F-score
+
+TP :  60310756
+FN :  27299789
+FP :  381897
+Recall :  0.688396082914
+Precision :  0.993707689792
+F1-score :  0.81
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1284  Total sequences =  25379
+23883.0 1113.0 2308758.0 29846818.0
+('Pre = ', 0.9554728756601056, 'Rec = ', 0.010238609370237427, 'specificity = ', 0.9999627109832169, 'F-score = ', 0.020260116379239045, 'NumCluster = ', 1284, 'NumSeqs = ', 24931, ' sumTtC = ', 2332641)
+-------------------------------------
+
+80
+I1_vidjil_90_t3_id_85.0
+sequence based F-score
+
+TP :  60177004
+FN :  25079217
+FP :  244959
+Recall :  0.705837102491
+Precision :  0.995945861607
+F1-score :  0.83
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1284  Total sequences =  25379
+23712.0 1284.0 1668866.0 30486710.0
+('Pre = ', 0.9486317810849736, 'Rec = ', 0.014009398680592564, 'specificity = ', 0.9999578850612474, 'F-score = ', 0.02761103742837281, 'NumCluster = ', 1284, 'NumSeqs = ', 24931, ' sumTtC = ', 1692578)
+-------------------------------------
+
+90
+I1_vidjil_90_t3_id_85.0
+sequence based F-score
+
+TP :  58588060
+FN :  19070798
+FP :  100258
+Recall :  0.754428554692
+Precision :  0.998291687283
+F1-score :  0.86
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1284  Total sequences =  25379
+22901.0 2095.0 718114.0 31437462.0
+('Pre = ', 0.9161865898543767, 'Rec = ', 0.03090490745801367, 'specificity = ', 0.9999333642010286, 'F-score = ', 0.05979287503704255, 'NumCluster = ', 1284, 'NumSeqs = ', 24931, ' sumTtC = ', 741015)
+-------------------------------------
+
+50
+I1_vidjil_70_t3_id_90.0
+sequence based F-score
+
+TP :  64774584
+FN :  24356759
+FP :  405401
+Recall :  0.726731829902
+Precision :  0.993780283932
+F1-score :  0.84
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  822  Total sequences =  25379
+23765.0 1231.0 1076193.0 19481180.0
+('Pre = ', 0.9507521203392543, 'Rec = ', 0.021605370386869317, 'specificity = ', 0.9999368148018231, 'F-score = ', 0.042250616469651205, 'NumCluster = ', 822, 'NumSeqs = ', 24931, ' sumTtC = ', 1099958)
+-------------------------------------
+
+60
+I1_vidjil_70_t3_id_90.0
+sequence based F-score
+
+TP :  64773412
+FN :  23740957
+FP :  292922
+Recall :  0.73178414682
+Precision :  0.995498101983
+F1-score :  0.84
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  822  Total sequences =  25379
+23790.0 1206.0 1003863.0 19553510.0
+('Pre = ', 0.9517522803648584, 'Rec = ', 0.023149837542438937, 'specificity = ', 0.9999383268977161, 'F-score = ', 0.045200251935830466, 'NumCluster = ', 822, 'NumSeqs = ', 24931, ' sumTtC = ', 1027653)
+-------------------------------------
+
+70
+I1_vidjil_70_t3_id_90.0
+sequence based F-score
+
+TP :  64746894
+FN :  22863651
+FP :  213025
+Recall :  0.739030832419
+Precision :  0.996720670172
+F1-score :  0.85
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  822  Total sequences =  25379
+23725.0 1271.0 908835.0 19648538.0
+('Pre = ', 0.9491518642982877, 'Rec = ', 0.02544072231277344, 'specificity = ', 0.9999353174374367, 'F-score = ', 0.04955323761743439, 'NumCluster = ', 822, 'NumSeqs = ', 24931, ' sumTtC = ', 932560)
+-------------------------------------
+
+80
+I1_vidjil_70_t3_id_90.0
+sequence based F-score
+
+TP :  64536114
+FN :  20720107
+FP :  169130
+Recall :  0.756966626517
+Precision :  0.99738614694
+F1-score :  0.86
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  822  Total sequences =  25379
+23436.0 1560.0 795567.0 19761806.0
+('Pre = ', 0.9375900144023044, 'Rec = ', 0.0286152797975099, 'specificity = ', 0.9999210660775093, 'F-score = ', 0.05553561082418344, 'NumCluster = ', 822, 'NumSeqs = ', 24931, ' sumTtC = ', 819003)
+-------------------------------------
+
+90
+I1_vidjil_70_t3_id_90.0
+sequence based F-score
+
+TP :  62560216
+FN :  15098642
+FP :  74070
+Recall :  0.805577336715
+Precision :  0.998817420861
+F1-score :  0.89
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  822  Total sequences =  25379
+22516.0 2480.0 388063.0 20169310.0
+('Pre = ', 0.9007841254600736, 'Rec = ', 0.05483962891428933, 'specificity = ', 0.9998770560272539, 'F-score = ', 0.10338518050852322, 'NumCluster = ', 822, 'NumSeqs = ', 24931, ' sumTtC = ', 410579)
+-------------------------------------
+
+50
+I1_vidjil_80_t3_id_90.0
+sequence based F-score
+
+TP :  64736382
+FN :  24394961
+FP :  408616
+Recall :  0.726303226464
+Precision :  0.993727592102
+F1-score :  0.84
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1001  Total sequences =  25379
+23837.0 1159.0 1611833.0 23437623.0
+('Pre = ', 0.9536325812129941, 'Rec = ', 0.014573232987093974, 'specificity = ', 0.9999505520380709, 'F-score = ', 0.028707759417004985, 'NumCluster = ', 1001, 'NumSeqs = ', 24931, ' sumTtC = ', 1635670)
+-------------------------------------
+
+60
+I1_vidjil_80_t3_id_90.0
+sequence based F-score
+
+TP :  64749860
+FN :  23764509
+FP :  302368
+Recall :  0.731518065728
+Precision :  0.995351919384
+F1-score :  0.84
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1001  Total sequences =  25379
+23878.0 1118.0 1456150.0 23593306.0
+('Pre = ', 0.9552728436549848, 'Rec = ', 0.016133478555811105, 'specificity = ', 0.999952615923152, 'F-score = ', 0.03173105545160741, 'NumCluster = ', 1001, 'NumSeqs = ', 24931, ' sumTtC = ', 1480028)
+-------------------------------------
+
+70
+I1_vidjil_80_t3_id_90.0
+sequence based F-score
+
+TP :  64744786
+FN :  22865759
+FP :  340007
+Recall :  0.739006771388
+Precision :  0.994775937906
+F1-score :  0.85
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1001  Total sequences =  25379
+23845.0 1151.0 1233285.0 23816171.0
+('Pre = ', 0.9539526324211874, 'Rec = ', 0.01896780762530526, 'specificity = ', 0.9999516738279811, 'F-score = ', 0.037196032215242494, 'NumCluster = ', 1001, 'NumSeqs = ', 24931, ' sumTtC = ', 1257130)
+-------------------------------------
+
+80
+I1_vidjil_80_t3_id_90.0
+sequence based F-score
+
+TP :  64554634
+FN :  20701587
+FP :  256890
+Recall :  0.757183854067
+Precision :  0.996036353041
+F1-score :  0.86
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1001  Total sequences =  25379
+23604.0 1392.0 925100.0 24124356.0
+('Pre = ', 0.9443110897743638, 'Rec = ', 0.024880257698924005, 'specificity = ', 0.9999423023070622, 'F-score = ', 0.04848310567936736, 'NumCluster = ', 1001, 'NumSeqs = ', 24931, ' sumTtC = ', 948704)
+-------------------------------------
+
+90
+I1_vidjil_80_t3_id_90.0
+sequence based F-score
+
+TP :  62565370
+FN :  15093488
+FP :  62071
+Recall :  0.805643703903
+Precision :  0.999008884939
+F1-score :  0.89
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1001  Total sequences =  25379
+22698.0 2298.0 438896.0 24610560.0
+('Pre = ', 0.9080652904464714, 'Rec = ', 0.049173082839031705, 'specificity = ', 0.9999066341665808, 'F-score = ', 0.09329414907827946, 'NumCluster = ', 1001, 'NumSeqs = ', 24931, ' sumTtC = ', 461594)
+-------------------------------------
+
+50
+I1_vidjil_90_t3_id_90.0
+sequence based F-score
+
+TP :  51126794
+FN :  38004549
+FP :  388336
+Recall :  0.573611843816
+Precision :  0.992461709793
+F1-score :  0.73
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1536  Total sequences =  25379
+23902.0 1094.0 3745826.0 34805258.0
+('Pre = ', 0.9562329972795647, 'Rec = ', 0.006340510508981019, 'specificity = ', 0.9999685689554596, 'F-score = ', 0.012597490621188787, 'NumCluster = ', 1536, 'NumSeqs = ', 24931, ' sumTtC = ', 3769728)
+-------------------------------------
+
+60
+I1_vidjil_90_t3_id_90.0
+sequence based F-score
+
+TP :  51140722
+FN :  37373647
+FP :  289726
+Recall :  0.577767458298
+Precision :  0.994366644444
+F1-score :  0.73
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1536  Total sequences =  25379
+23943.0 1053.0 3575969.0 34975115.0
+('Pre = ', 0.9578732597215555, 'Rec = ', 0.006650995913233435, 'specificity = ', 0.999969893785963, 'F-score = ', 0.013210266301930972, 'NumCluster = ', 1536, 'NumSeqs = ', 24931, ' sumTtC = ', 3599912)
+-------------------------------------
+
+70
+I1_vidjil_90_t3_id_90.0
+sequence based F-score
+
+TP :  51137334
+FN :  36473211
+FP :  358925
+Recall :  0.583689257954
+Precision :  0.993030076224
+F1-score :  0.74
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1536  Total sequences =  25379
+23926.0 1070.0 3310259.0 35240825.0
+('Pre = ', 0.9571931509041447, 'Rec = ', 0.00717596654054889, 'specificity = ', 0.9999696384090583, 'F-score = ', 0.014245138919278241, 'NumCluster = ', 1536, 'NumSeqs = ', 24931, ' sumTtC = ', 3334185)
+-------------------------------------
+
+80
+I1_vidjil_90_t3_id_90.0
+sequence based F-score
+
+TP :  51119986
+FN :  34136235
+FP :  281421
+Recall :  0.599604174339
+Precision :  0.994525033138
+F1-score :  0.75
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1536  Total sequences =  25379
+23819.0 1177.0 2405801.0 36145283.0
+('Pre = ', 0.9529124659945591, 'Rec = ', 0.00980359068496308, 'specificity = ', 0.9999674380285095, 'F-score = ', 0.019407516287680025, 'NumCluster = ', 1536, 'NumSeqs = ', 24931, ' sumTtC = ', 2429620)
+-------------------------------------
+
+90
+I1_vidjil_90_t3_id_90.0
+sequence based F-score
+
+TP :  50270998
+FN :  27387860
+FP :  75430
+Recall :  0.647331151844
+Precision :  0.998501780504
+F1-score :  0.79
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1536  Total sequences =  25379
+23144.0 1852.0 816426.0 37734658.0
+('Pre = ', 0.9259081453032485, 'Rec = ', 0.027566492371094726, 'specificity = ', 0.9999509228595861, 'F-score = ', 0.053539001071057614, 'NumCluster = ', 1536, 'NumSeqs = ', 24931, ' sumTtC = ', 839570)
+-------------------------------------
+
+50
+I1_vidjil_70_t3_id_95.0
+sequence based F-score
+
+TP :  59908958
+FN :  29222385
+FP :  363023
+Recall :  0.672142435911
+Precision :  0.993976919391
+F1-score :  0.8
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1134  Total sequences =  25379
+23865.0 1128.0 1628333.0 26669638.0
+('Pre = ', 0.9548673628616012, 'Rec = ', 0.0144443946790881, 'specificity = ', 0.999957706501568, 'F-score = ', 0.02845829723627184, 'NumCluster = ', 1134, 'NumSeqs = ', 24934, ' sumTtC = ', 1652198)
+-------------------------------------
+
+60
+I1_vidjil_70_t3_id_95.0
+sequence based F-score
+
+TP :  59922604
+FN :  28591765
+FP :  259080
+Recall :  0.676981654809
+Precision :  0.995695035719
+F1-score :  0.81
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1134  Total sequences =  25379
+23890.0 1103.0 1553887.0 26744084.0
+('Pre = ', 0.9558676429400232, 'Rec = ', 0.015141556759922346, 'specificity = ', 0.9999587589348319, 'F-score = ', 0.029810889896866047, 'NumCluster = ', 1134, 'NumSeqs = ', 24934, ' sumTtC = ', 1577777)
+-------------------------------------
+
+70
+I1_vidjil_70_t3_id_95.0
+sequence based F-score
+
+TP :  59907528
+FN :  27703017
+FP :  304665
+Recall :  0.683793577588
+Precision :  0.994940144432
+F1-score :  0.81
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1134  Total sequences =  25379
+23824.0 1169.0 1445966.0 26852005.0
+('Pre = ', 0.9532269035329892, 'Rec = ', 0.016209118309418354, 'specificity = ', 0.9999564669710925, 'F-score = ', 0.031876198752594856, 'NumCluster = ', 1134, 'NumSeqs = ', 24934, ' sumTtC = ', 1469790)
+-------------------------------------
+
+80
+I1_vidjil_70_t3_id_95.0
+sequence based F-score
+
+TP :  59826980
+FN :  25429241
+FP :  217851
+Recall :  0.701731548716
+Precision :  0.996371860885
+F1-score :  0.82
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1134  Total sequences =  25379
+23543.0 1450.0 1331706.0 26966265.0
+('Pre = ', 0.9419837554515265, 'Rec = ', 0.017371715455978938, 'specificity = ', 0.9999462320037126, 'F-score = ', 0.0341143074910052, 'NumCluster = ', 1134, 'NumSeqs = ', 24934, ' sumTtC = ', 1355249)
+-------------------------------------
+
+90
+I1_vidjil_70_t3_id_95.0
+sequence based F-score
+
+TP :  58985308
+FN :  18673550
+FP :  125957
+Recall :  0.759543850104
+Precision :  0.997869154044
+F1-score :  0.86
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1134  Total sequences =  25379
+22697.0 2296.0 796959.0 27501012.0
+('Pre = ', 0.9081342775977274, 'Rec = ', 0.027690884956615945, 'specificity = ', 0.9999165191328985, 'F-score = ', 0.05374303408871614, 'NumCluster = ', 1134, 'NumSeqs = ', 24934, ' sumTtC = ', 819656)
+-------------------------------------
+
+50
+I1_vidjil_80_t3_id_95.0
+sequence based F-score
+
+TP :  59892442
+FN :  29238901
+FP :  377307
+Recall :  0.671957136335
+Precision :  0.993739695183
+F1-score :  0.8
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1292  Total sequences =  25379
+23914.0 1079.0 2132483.0 30124612.0
+('Pre = ', 0.9568279118153082, 'Rec = ', 0.01108979468993882, 'specificity = ', 0.9999641833941668, 'F-score = ', 0.021925469540063903, 'NumCluster = ', 1292, 'NumSeqs = ', 24934, ' sumTtC = ', 2156397)
+-------------------------------------
+
+60
+I1_vidjil_80_t3_id_95.0
+sequence based F-score
+
+TP :  59906538
+FN :  28607831
+FP :  272506
+Recall :  0.676800147556
+Precision :  0.995471745945
+F1-score :  0.81
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1292  Total sequences =  25379
+23954.0 1039.0 1983104.0 30273991.0
+('Pre = ', 0.9584283599407835, 'Rec = ', 0.011934881802120318, 'specificity = ', 0.999965681289168, 'F-score = ', 0.02357617992855494, 'NumCluster = ', 1292, 'NumSeqs = ', 24934, ' sumTtC = ', 2007058)
+-------------------------------------
+
+70
+I1_vidjil_80_t3_id_95.0
+sequence based F-score
+
+TP :  59901890
+FN :  27708655
+FP :  337604
+Recall :  0.683729224604
+Precision :  0.994395636856
+F1-score :  0.81
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1292  Total sequences =  25379
+23918.0 1075.0 1768645.0 30488450.0
+('Pre = ', 0.9569879566278559, 'Rec = ', 0.013342906218637783, 'specificity = ', 0.999964741989257, 'F-score = ', 0.026318858951251023, 'NumCluster = ', 1292, 'NumSeqs = ', 24934, ' sumTtC = ', 1792563)
+-------------------------------------
+
+80
+I1_vidjil_80_t3_id_95.0
+sequence based F-score
+
+TP :  59826790
+FN :  25429431
+FP :  249261
+Recall :  0.70172932014
+Precision :  0.995850909042
+F1-score :  0.82
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1292  Total sequences =  25379
+23678.0 1315.0 1479205.0 30777890.0
+('Pre = ', 0.947385267875005, 'Rec = ', 0.015755052123152632, 'specificity = ', 0.9999572763494053, 'F-score = ', 0.030994661870465925, 'NumCluster = ', 1292, 'NumSeqs = ', 24934, ' sumTtC = ', 1502883)
+-------------------------------------
+
+90
+I1_vidjil_80_t3_id_95.0
+sequence based F-score
+
+TP :  58985622
+FN :  18673236
+FP :  119415
+Recall :  0.759547893429
+Precision :  0.997979613819
+F1-score :  0.86
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1292  Total sequences =  25379
+22856.0 2137.0 839803.0 31417292.0
+('Pre = ', 0.914496058896491, 'Rec = ', 0.02649482588137375, 'specificity = ', 0.9999319847601305, 'F-score = ', 0.051497658992488045, 'NumCluster = ', 1292, 'NumSeqs = ', 24934, ' sumTtC = ', 862659)
+-------------------------------------
+
+50
+I1_vidjil_90_t3_id_95.0
+sequence based F-score
+
+TP :  59455014
+FN :  29676329
+FP :  362802
+Recall :  0.667049457563
+Precision :  0.993934883881
+F1-score :  0.8
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1864  Total sequences =  25379
+23989.0 1004.0 4358614.0 42288374.0
+('Pre = ', 0.9598287520505742, 'Rec = ', 0.0054736876691774275, 'specificity = ', 0.9999762588137381, 'F-score = ', 0.01088529892485609, 'NumCluster = ', 1864, 'NumSeqs = ', 24934, ' sumTtC = ', 4382603)
+-------------------------------------
+
+60
+I1_vidjil_90_t3_id_95.0
+sequence based F-score
+
+TP :  59469144
+FN :  29045225
+FP :  258597
+Recall :  0.671858644781
+Precision :  0.995670403808
+F1-score :  0.8
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1864  Total sequences =  25379
+24030.0 963.0 4189259.0 42457729.0
+('Pre = ', 0.9614692113791862, 'Rec = ', 0.00570338279667025, 'specificity = ', 0.9999773191317339, 'F-score = ', 0.011339500297526214, 'NumCluster = ', 1864, 'NumSeqs = ', 24934, ' sumTtC = ', 4213289)
+-------------------------------------
+
+70
+I1_vidjil_90_t3_id_95.0
+sequence based F-score
+
+TP :  59465766
+FN :  28144779
+FP :  350796
+Recall :  0.678751239363
+Precision :  0.994135470374
+F1-score :  0.81
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1864  Total sequences =  25379
+24014.0 979.0 3917146.0 42729842.0
+('Pre = ', 0.9608290321289962, 'Rec = ', 0.006093129941438561, 'specificity = ', 0.9999770891366679, 'F-score = ', 0.012109467284797133, 'NumCluster = ', 1864, 'NumSeqs = ', 24934, ' sumTtC = ', 3941160)
+-------------------------------------
+
+80
+I1_vidjil_90_t3_id_95.0
+sequence based F-score
+
+TP :  59452200
+FN :  25804021
+FP :  280093
+Recall :  0.697335623168
+Precision :  0.995310861413
+F1-score :  0.82
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1864  Total sequences =  25379
+23911.0 1082.0 3004294.0 43642694.0
+('Pre = ', 0.9567078782058976, 'Rec = ', 0.007896096862662865, 'specificity = ', 0.9999752083779369, 'F-score = ', 0.015662921304153872, 'NumCluster = ', 1864, 'NumSeqs = ', 24934, ' sumTtC = ', 3028205)
+-------------------------------------
+
+90
+I1_vidjil_90_t3_id_95.0
+sequence based F-score
+
+TP :  58785104
+FN :  18873754
+FP :  111552
+Recall :  0.756965857005
+Precision :  0.998105970566
+F1-score :  0.86
+-------------------------------------
+
+Cluster based F-score
+
+Cluster results
+Total of clusters =  1864  Total sequences =  25379
+23349.0 1644.0 1111720.0 45535268.0
+('Pre = ', 0.934221582042972, 'Rec = ', 0.02057055562260973, 'specificity = ', 0.9999638974201852, 'F-score = ', 0.04025474500500836, 'NumCluster = ', 1864, 'NumSeqs = ', 24934, ' sumTtC = ', 1135069)
+-------------------------------------
+
