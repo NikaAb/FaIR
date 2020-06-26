@@ -1,0 +1,244 @@
+julianab@julianab-HP-ProBook-650-G1:~/Desktop/FaIR/FaIR-v1.0/Code$ python fair.py -dataset ../../Data/Real_data/I1.fa -output ../../Data/Tools_output/FaIR/I1_mid_70_t3  -method CDR3 -mid 70 -id 80 -tolerance 3 -splitsize 300
+('Total Sequences: ', 25953, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25953, '\n')
+('Total #Clusters: ', 218, '\n')
+('Clusters are written in <', '../../Data/Tools_output/FaIR/I1_mid_70_t3_id_80.0.txt', '> file', '\n')
+('Clustering started at ', 19, ':', 43, ':', 49, '\n')
+('Clustering ends at ', 19, ':', 45, ':', 9, '\n')
+('Total Clustering Time:', 1.332, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+
+julianab@julianab-HP-ProBook-650-G1:~/Desktop/FaIR/FaIR-v1.0/Code$ python fair.py -dataset ../../Data/Real_data/I1.fa -output ../../Data/Tools_output/FaIR/I1_mid_80_t3  -method CDR3 -mid 80 -id 80 -tolerance 3 -splitsize 300
+('Total Sequences: ', 25953, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25953, '\n')
+('Total #Clusters: ', 245, '\n')
+('Clusters are written in <', '../../Data/Tools_output/FaIR/I1_mid_80_t3_id_80.0.txt', '> file', '\n')
+('Clustering started at ', 19, ':', 47, ':', 56, '\n')
+('Clustering ends at ', 19, ':', 49, ':', 31, '\n')
+('Total Clustering Time:', 1.5846, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+
+
+julianab@julianab-HP-ProBook-650-G1:~/Desktop/FaIR/FaIR-v1.0/Code$ python fair.py -dataset ../../Data/Real_data/I1.fa -output ../../Data/Tools_output/FaIR/I1_mid_90_t3  -method CDR3 -mid 90 -id 80 -tolerance 3 -splitsize 300
+('Total Sequences: ', 25953, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25953, '\n')
+('Total #Clusters: ', 327, '\n')
+('Clusters are written in <', '../../Data/Tools_output/FaIR/I1_mid_90_t3_id_80.0.txt', '> file', '\n')
+('Clustering started at ', 19, ':', 51, ':', 17, '\n')
+('Clustering ends at ', 19, ':', 52, ':', 55, '\n')
+('Total Clustering Time:', 1.6151, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+
+julianab@julianab-HP-ProBook-650-G1:~/Desktop/FaIR/FaIR-v1.0/Code$ python fair.py -dataset ../../Data/Real_data/I1.fa -output ../../Data/Tools_output/FaIR/I1_mid_90_t3  -method CDR3 -mid 90 -id 85 -tolerance 3 -splitsize 300
+('Total Sequences: ', 25953, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25953, '\n')
+('Total #Clusters: ', 360, '\n')
+('Clusters are written in <', '../../Data/Tools_output/FaIR/I1_mid_90_t3_id_85.0.txt', '> file', '\n')
+('Clustering started at ', 19, ':', 54, ':', 59, '\n')
+('Clustering ends at ', 19, ':', 56, ':', 34, '\n')
+('Total Clustering Time:', 1.5855, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+
+julianab@julianab-HP-ProBook-650-G1:~/Desktop/FaIR/FaIR-v1.0/Code$ python fair.py -dataset ../../Data/Real_data/I1.fa -output ../../Data/Tools_output/FaIR/I1_mid_80_t3  -method CDR3 -mid 80 -id 85 -tolerance 3 -splitsize 300
+('Total Sequences: ', 25953, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25953, '\n')
+('Total #Clusters: ', 271, '\n')
+('Clusters are written in <', '../../Data/Tools_output/FaIR/I1_mid_80_t3_id_85.0.txt', '> file', '\n')
+('Clustering started at ', 19, ':', 57, ':', 27, '\n')
+('Clustering ends at ', 19, ':', 59, ':', 5, '\n')
+('Total Clustering Time:', 1.6249, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+
+
+
+julianab@julianab-HP-ProBook-650-G1:~/Desktop/FaIR/FaIR-v1.0/Code$ python fair.py -dataset ../../Data/Real_data/I1.fa -output ../../Data/Tools_output/FaIR/I1_mid_70_t3  -method CDR3 -mid 70 -id 85 -tolerance 3 -splitsize 300
+('Total Sequences: ', 25953, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25953, '\n')
+('Total #Clusters: ', 246, '\n')
+('Clusters are written in <', '../../Data/Tools_output/FaIR/I1_mid_70_t3_id_85.0.txt', '> file', '\n')
+('Clustering started at ', 20, ':', 2, ':', 56, '\n')
+('Clustering ends at ', 20, ':', 4, ':', 18, '\n')
+('Total Clustering Time:', 1.3642, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+
+
+
+julianab@julianab-HP-ProBook-650-G1:~/Desktop/FaIR/FaIR-v1.0/Code$ python fair.py -dataset ../../Data/Real_data/I1.fa -output ../../Data/Tools_output/FaIR/I1_mid_70_t3  -method CDR3 -mid 70 -id 90 -tolerance 3 -splitsize 300
+('Total Sequences: ', 25953, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25953, '\n')
+('Total #Clusters: ', 280, '\n')
+('Clusters are written in <', '../../Data/Tools_output/FaIR/I1_mid_70_t3_id_90.0.txt', '> file', '\n')
+('Clustering started at ', 20, ':', 5, ':', 8, '\n')
+('Clustering ends at ', 20, ':', 6, ':', 32, '\n')
+('Total Clustering Time:', 1.387, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+julianab@julianab-HP-ProBook-650-G1:~/Desktop/FaIR/FaIR-v1.0/Code$ python fair.py -dataset ../../Data/Real_data/I1.fa -output ../../Data/Tools_output/FaIR/I1_mid_80_t3  -method CDR3 -mid 80 -id 90 -tolerance 3 -splitsize 300
+('Total Sequences: ', 25953, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25953, '\n')
+('Total #Clusters: ', 307, '\n')
+('Clusters are written in <', '../../Data/Tools_output/FaIR/I1_mid_80_t3_id_90.0.txt', '> file', '\n')
+('Clustering started at ', 20, ':', 10, ':', 2, '\n')
+('Clustering ends at ', 20, ':', 11, ':', 31, '\n')
+('Total Clustering Time:', 1.4732, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+julianab@julianab-HP-ProBook-650-G1:~/Desktop/FaIR/FaIR-v1.0/Code$ python fair.py -dataset ../../Data/Real_data/I1.fa -output ../../Data/Tools_output/FaIR/I1_mid_90_t3  -method CDR3 -mid 90 -id 90 -tolerance 3 -splitsize 300
+('Total Sequences: ', 25953, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25953, '\n')
+('Total #Clusters: ', 476, '\n')
+('Clusters are written in <', '../../Data/Tools_output/FaIR/I1_mid_90_t3_id_90.0.txt', '> file', '\n')
+('Clustering started at ', 0, ':', 19, ':', 17, '\n')
+('Clustering ends at ', 0, ':', 20, ':', 45, '\n')
+('Total Clustering Time:', 1.4537, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+
+julianab@julianab-HP-ProBook-650-G1:~/Desktop/FaIR/FaIR-v1.0/Code$ python fair.py -dataset ../../Data/Real_data/I1.fa -output ../../Data/Tools_output/FaIR/I1_mid_90_t3  -method CDR3 -mid 90 -id 95 -tolerance 3 -splitsize 300
+('Total Sequences: ', 25953, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25953, '\n')
+('Total #Clusters: ', 589, '\n')
+('Clusters are written in <', '../../Data/Tools_output/FaIR/I1_mid_90_t3_id_95.0.txt', '> file', '\n')
+('Clustering started at ', 0, ':', 22, ':', 50, '\n')
+('Clustering ends at ', 0, ':', 24, ':', 31, '\n')
+('Total Clustering Time:', 1.6704, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+
+
+
+julianab@julianab-HP-ProBook-650-G1:~/Desktop/FaIR/FaIR-v1.0/Code$ python fair.py -dataset ../../Data/Real_data/I1.fa -output ../../Data/Tools_output/FaIR/I1_mid_80_t3  -method CDR3 -mid 80 -id 95 -tolerance 3 -splitsize 300
+('Total Sequences: ', 25953, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25953, '\n')
+('Total #Clusters: ', 414, '\n')
+('Clusters are written in <', '../../Data/Tools_output/FaIR/I1_mid_80_t3_id_95.0.txt', '> file', '\n')
+('Clustering started at ', 0, ':', 25, ':', 11, '\n')
+('Clustering ends at ', 0, ':', 26, ':', 45, '\n')
+('Total Clustering Time:', 1.558, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
+
+julianab@julianab-HP-ProBook-650-G1:~/Desktop/FaIR/FaIR-v1.0/Code$ python fair.py -dataset ../../Data/Real_data/I1.fa -output ../../Data/Tools_output/FaIR/I1_mid_70_t3  -method CDR3 -mid 70 -id 95 -tolerance 3 -splitsize 300
+('Total Sequences: ', 25953, '\n')
+Eliminating Duplicate Sequences...
+Pre Clustering....
+
+ Merging is started..
+
+Merging.....
+=========== Clustering Details==========
+
+('Total #Sequences: ', 25953, '\n')
+('Total #Clusters: ', 378, '\n')
+('Clusters are written in <', '../../Data/Tools_output/FaIR/I1_mid_70_t3_id_95.0.txt', '> file', '\n')
+('Clustering started at ', 0, ':', 29, ':', 34, '\n')
+('Clustering ends at ', 0, ':', 31, ':', 7, '\n')
+('Total Clustering Time:', 1.5456, 'Mins\n')
+===========================================
+Thank you for using FaIR
+
