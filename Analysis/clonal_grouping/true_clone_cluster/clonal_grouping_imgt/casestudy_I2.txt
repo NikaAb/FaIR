@@ -1,0 +1,50 @@
+
+S8194 CARDQGSADTGVGTAVPFDSW
+
+
+{'CVGG*GSADTGVETAVPFGLW': ('+', 0.6666666666666667), 'GARVRGSPNTGVGTALPFDSW': ('+', 0.7142857142857143), 'AVRDQGWAEAGVVTAAPCDSW': ('+', 0.6190476190476191)} 
+
+
+
+1	CVGG*GSADTGVETAVPFGLW
+2	GARVRGSPNTGVGTALPFDSW
+3	AVRDQGWAEAGVVTAAPCDSW
+
+
+Length: 21
+# Identity:      10/21 (47.6%)
+# Similarity:    12/21 (57.1%)
+1                  1 CVGG*GSADTGVETAVPFGLW     21
+                     .....||.:|||.||:||..|
+2                  1 GARVRGSPNTGVGTALPFDSW     21
+
+
+
+# Length: 21
+# Identity:       9/21 (42.9%)
+# Similarity:    10/21 (47.6%)
+
+1                  1 CVGG*GSADTGVETAVPFGLW     21
+                     .|...|.|:.||.||.|...|
+3                  1 AVRDQGWAEAGVVTAAPCDSW     21
+
+
+ Length: 21
+# Identity:      10/21 (47.6%)
+# Similarity:    11/21 (52.4%)
+
+2                  1 GARVRGSPNTGVGTALPFDSW     21
+                     ..|.:|....||.||.|.|||
+3                  1 AVRDQGWAEAGVVTAAPCDSW     21
+
+
+
+
+
+====================================================================================
+S8194 CARDQGSADTGVGTAVPFDSW
+{'W*GDRG*AEPGVGTAVPFDSW': '-', 'CVRVQGSAETGVAQPY#FDSW': '-', 'AVRDQGWAEAGVVTAAPCDSW': '-', 'WERDKGSAEKGVGTAVPFDPG': '-', 'CVGG*GSADTGVETAVPFGLW': '-', 'CVTVQRSANTGVCIA*PFDSW': '-', 'WLGGPGSADTGVGTALPFDSW': ('+', 0.7142857142857143), 'GARVRGSPNTGVGTALPFDSW': ('+', 0.7142857142857143)} sub_gourp_dist
+
+
+1	WLGGPGSADTGVGTALPFDSW
+2	GARVRGSPNTGVGTALPFDSW

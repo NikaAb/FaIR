@@ -1,0 +1,6 @@
+0	S669	IGHV4-39*01	IGHJ1*01	CARYDILTGYYNEVTHW	gcactggggccagggcaccctggtcaccgtctcctcag
+0	S670	IGHV4-39*01	IGHJ1*01	CARYDILTGYYNEVTHW	gcactggggccagggcaccctggtcaccgtctcctcag
+0	S671	IGHV4-39*01	IGHJ1*01	CARYDILTGYYNEVTHW	gcactggggccagggcaccctggtcaccgtctcctcag
+0	S672	IGHV4-39*01	IGHJ1*01	CARYDILTGYYNEVTHW	gcactggggccagggcaccctggtcaccgtctcctcag
+0	S684	IGHV4-39*01	IGHJ1*01	CARYDILTGYYNEVTHW	gcactggggccagggcaccctggtcaccgtctcctcag
+1	S663	IGHV4-39*01	IGHJ5*02	CARYDILTGYYNEVTRW	ctggggccagggcaccctggtcaccgtctcctcag

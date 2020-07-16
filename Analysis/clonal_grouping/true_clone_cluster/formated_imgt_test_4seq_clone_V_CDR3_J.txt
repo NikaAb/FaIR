@@ -1,0 +1,5 @@
+0	S2205	IGHV3-74*01	IGHJ4*02	CVGDQGSADTGVGTAVPFDSW	ctttgactcatggggccagggaaccctggtcaccgtctcctcag
+0	S19569	IGHV3-74*01	IGHJ4*02	CARDQGSADTGVGTAVPFDSW	ctttgactcctggggccagggaaccttggtcaccgtctcctcag
+0	S534	IGHV3-74*01	IGHJ1*01	CVRDQGSADTGVGTAVPFDPW	tggggccagggtaccctggtcaccgtctcctcag
+0	S26019	IGHV3-74*01	IGHJ4*02	CARDQGSADTGVGTAVPFDSW	ctttgactcctggggccagggaaccctggtcaccgtctcctcag
+1	S4212	IGHV3-20*01	IGHJ6*02	CARAVGATPPYYFGMDVW	ctactacttcggtatggacgtctggggccaagggaccacggtcaccgtcttcagg
